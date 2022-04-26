@@ -9,6 +9,7 @@ Node project to help me change ffg frontend env before running yarn dev
 env files are created on this root folder as such
 
 .env_id_client
+
 .env_sg_client
 
 ## Install dependencies
